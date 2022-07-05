@@ -1,0 +1,47 @@
+body {
+    font-family: 'Dancing Script', cursive;
+}
+
+section {
+    display: flex;
+}
+
+.diet {
+    padding-left: 5%;
+    background-image: url(frame/Frame\ 58.jpg);
+}
+
+.size {
+    width: 50%;
+
+}
+
+.size img {
+    width: 70%;
+}
+
+span {
+    color: coral;
+}
+
+h1 {
+    font-size: 50px;
+    font-style: bold;
+    line-height: 40px;
+
+}
+
+small {
+    font-size: large;
+
+}
+
+.button {
+    background-image: linear-gradient(white, orange);
+    text-decoration: solid;
+    padding: 5px 30px;
+    border-radius: 20px;
+    font-weight: 800;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
