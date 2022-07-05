@@ -4,11 +4,13 @@ body {
 
 section {
     display: flex;
+
 }
 
 .diet {
     padding-left: 5%;
     background-image: url(frame/Frame\ 58.jpg);
+
 }
 
 .size {
@@ -17,7 +19,7 @@ section {
 }
 
 .size img {
-    width: 70%;
+    width: 80%;
 }
 
 span {
@@ -25,7 +27,7 @@ span {
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 70px;
     font-style: bold;
     line-height: 40px;
 
@@ -37,11 +39,23 @@ small {
 }
 
 .button {
-    background-image: linear-gradient(white, orange);
+    background-image: linear-gradient(red, orange);
     text-decoration: solid;
-    padding: 5px 30px;
-    border-radius: 20px;
-    font-weight: 800;
+    padding: 15px 30px;
+    border-radius: 30px;
+    font-weight: 500;
     font-family: Arial, Helvetica, sans-serif;
+    line-height: 70px;
+    color: aliceblue;
 
+}
+
+.loren {
+    font-size: 30px;
+    line-height: 70px;
+
+}
+
+.about-me {
+    background-image: url(frame/7.png)
 }
